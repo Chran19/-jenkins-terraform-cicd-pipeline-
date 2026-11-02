@@ -1,0 +1,12 @@
+{
+  "name": "cicd-jenkins-terraform-project",
+  "version": "1.0.0",
+  "description": "Automated Jenkins CI/CD Pipeline and Terraform Infrastructure as Code",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "author": "Ranjeet Choudhary (PRN: 202301100046)",
+  "license": "MIT"
+}
